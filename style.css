@@ -318,6 +318,7 @@ section {
 
 a{
     text-decoration: none;
+    color:#000000;
 }
 
 .cent-prop{
@@ -325,3 +326,4 @@ a{
     flex-direction: row;
     justify-content: center;
 }
+
